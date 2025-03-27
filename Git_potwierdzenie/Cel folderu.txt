@@ -1,0 +1,3 @@
+Folder ma na celu przechowanie screenshotów wykonanego tematu 
+Push & Pull na stronie learngitbranching przez wszystkich 
+członków zespołu
